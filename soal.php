@@ -1,5 +1,8 @@
 <?php
-// Soal 1
+
+// widya
+
+// soal 1
 for ($i = 5; $i <= 100; $i++) {
     if ($i % 2 != 0) {
         echo  "$i <br>";
